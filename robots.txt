@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bianarna.github.io/sitemap.bianarna.gz
+Sitemap: https://bianarna.github.io/app/sitemap.bianarna.gz
+Sitemap: https://bianarna.github.io/assets/sitemap.bianarna.gz
+Sitemap: https://bianarna.github.io/css/sitemap.bianarna.gz
+Sitemap: https://bianarna.github.io/data/sitemap.bianarna.gz
+Sitemap: https://bianarna.github.io/includes/sitemap.bianarna.gz
+Sitemap: https://bianarna.github.io/item/sitemap.bianarna.gz
+Sitemap: https://bianarna.github.io/src/sitemap.bianarna.gz
